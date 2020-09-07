@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TinkoffExam</string>
+    <string name="dev_life">Developers Life</string>
+    <string name="section_latest">Последние</string>
+    <string name="section_top">Лучшие</string>
+    <string name="section_hot">Горячие</string>
+    <string name="false_text">Произошла ошибка при загрузке данных. Пожалуйста, проверьте подключение к сети</string>
+    <string name="to_retry">Повторить</string>
+    <string name="error_loading">Произошла ошибка при загрузке фотографии</string>
+</resources>
